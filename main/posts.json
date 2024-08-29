@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "content": "Happy Janmashtami",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.09.29_cff5c157.jpg",
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 2,
+    "content": "Good old FUCCCKKINGG Days",
+    "email": "divesh24@gmail.com",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.10.06_20a83551.jpg",
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 3,
+    "content": "4G Satte Wale",
+    "email": "gagandeep@chitkara.edu.in",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.10.58_1cea3287.jpg",
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "content": "Stake talks",
+    "email": "gagandeep@chitkara.edu.in",
+    "imageUrl": "/uploads/WhatsApp Image 2024-08-30 at 03.12.09_72876121.jpg",
+    "likes": 2,
+    "comments": [
+      {
+        "id": 1,
+        "content": "John wick"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "content": "Paise to dedo",
+    "email": "gopal12@gmail.com",
+    "imageUrl": "/uploads/Screenshot 2023-03-10 102205.png",
+    "likes": 6,
+    "comments": []
+  },
+  {
+    "id": 6,
+    "content": "Mera kab hoga",
+    "email": "gauravluthra800@gmail.com",
+    "imageUrl": "/uploads/hq720.jpg",
+    "likes": 0,
+    "comments": []
+  }
+]
